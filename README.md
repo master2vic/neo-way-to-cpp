@@ -8,8 +8,8 @@
 
 ## 1. 面向 c++ 语言特性学习
 
-[特性](future/README.md)
+[面向特性](future/README.md)
 
 ## 2. 面向 工程 学习
 
-[特性](project/README.md)
+[面向工程](project/README.md)
